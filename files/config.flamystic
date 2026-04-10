@@ -1,0 +1,12 @@
+#This is the default file, created by the Flamystic emulator.
+#Mon Jul 20 06:20:19 AWST 2015
+victoryPoints=1000000000
+wood=1000000000
+stone=1000000000
+patchingServer=
+diamonds=1000000000
+gold=1000000000
+username=Commander
+obstacles=false
+headquarterLevel=20
+iron=1000000000
